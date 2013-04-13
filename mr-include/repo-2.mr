@@ -1,0 +1,11 @@
+lib =
+ some_text() {
+  echo "*****"
+  echo "*****  This worked"
+  echo "*****"
+ }
+
+[$HOME/repos/bbb]
+checkout = mkdir -p $HOME/repos/bbb
+update = :
+fixups = some_text

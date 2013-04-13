@@ -1,0 +1,4 @@
+[$HOME/repos/ggg]
+checkout = mkdir -p $HOME/repos/ggg
+update = :
+
